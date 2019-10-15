@@ -1,0 +1,17 @@
+{
+  "name": "recipes-app",
+  "version": "1.0.0",
+  "description": "my first recipies project",
+  "author": "kapila",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
